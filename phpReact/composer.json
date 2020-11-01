@@ -1,0 +1,12 @@
+{
+    "name": "iamhe/php-react",
+    "authors": [
+        {
+            "name": "Narongrit Kanhankoi",
+            "email": "narongrit@3dsinteractive.com"
+        }
+    ],
+    "require": {
+        "react/react": "1.1"
+    }
+}
